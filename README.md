@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou **Bacharel em Sistemas de Informação** e atuo como **Desenvolvedor Fullstack Pleno**. Tenho experiência no desenvolvimento de soluções robustas para ecossistemas Web, Desktop e Mobile.
+Sou **Bacharel em Sistemas de Informação** e atuo como **Desenvolvedor Fullstack Sênior**. Tenho experiência no desenvolvimento de soluções robustas para ecossistemas Web, Desktop e Mobile.
 
 * 🔭 Atualmente focado em arquiteturas escaláveis e entregas de alta performance.
 * 📚 Compartilho aqui minhas experiências práticas e estudos em diversas tecnologias.
